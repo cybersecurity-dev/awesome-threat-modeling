@@ -1,4 +1,4 @@
-# Awesome Threat Modeling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome [Threat Modeling](https://en.wikipedia.org/wiki/Threat_model) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiV5RWRRWGFznIo7q9RCqu26&si=Ft0xUmr7TM3SdrIz) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/threatmodeling/)
 
 <p align="center">
@@ -9,6 +9,8 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
 </p>
 
+## Threat Modeling
+- [Microsoft Threat Modeling](https://www.microsoft.com/securityengineering/sdl/threatmodeling)
 
 ## Threat Modeling Tools
 - [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - OWASP Threat Dragon is a modeling tool used to create threat model diagrams as part of a secure development lifecycle. Threat Dragon follows the values and principles of the [threat modeling manifesto](https://www.threatmodelingmanifesto.org/).
