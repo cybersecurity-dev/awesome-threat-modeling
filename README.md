@@ -10,6 +10,9 @@
 </p>
 
 
+## Threat Modeling Tools
+- [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - OWASP Threat Dragon is a modeling tool used to create threat model diagrams as part of a secure development lifecycle. Threat Dragon follows the values and principles of the [threat modeling manifesto](https://www.threatmodelingmanifesto.org/).
+
 ##
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
