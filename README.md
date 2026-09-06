@@ -1,5 +1,50 @@
 <div align="center">
-    
+
+```mermaid
+timeline
+    title Threat Modeling Roadmap
+
+    Foundation
+        : Security Fundamentals
+        : Risk Management
+        : Security Architecture
+
+    System Understanding
+        : Asset Inventory
+        : Data Classification
+        : System Architecture
+
+    Modeling
+        : Data Flow Diagrams
+        : Trust Boundaries
+        : Attack Surface Analysis
+
+    Threat Discovery
+        : STRIDE
+        : Attack Trees
+        : MITRE ATT&CK Mapping
+
+    Risk Assessment
+        : Likelihood Analysis
+        : Impact Analysis
+        : Risk Prioritization
+
+    Security Design
+        : Mitigation Planning
+        : Security Controls
+        : Secure Architecture
+
+    Validation
+        : Security Testing
+        : Penetration Testing
+        : Red Team Exercises
+
+    Continuous Improvement
+        : Threat Reviews
+        : Architecture Updates
+        : Control Optimization
+```
+
 # **`Awesome`** [Threat Modeling](https://wikipedia.org/wiki/Threat_model) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
